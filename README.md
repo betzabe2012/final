@@ -155,6 +155,12 @@ que muestre reseña y nos inste a querer ingresar a las historias.
 
 que sea muy facíl acceder al sitio
 
+que tenga direcciones y muestre redes sociales
+
+que se agreguen los mapa para hacer más facíl conocer los lugares
+
+que sea facíl la comunicación con la pagina
+
 
 
 
