@@ -1,0 +1,74 @@
+body{
+
+	font-family: 'Lobster', cursive;
+
+}
+.container-uno{	
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto
+}
+.navbar-collapse{
+	position: left;
+	background-color: #FADBD8;
+	color: white;
+	width: 1200px;
+	height: 50px;
+	padding: 50px;
+}
+.navbar-brand{
+	color: #ffffff;
+	font-size: 60px;
+}
+.header_gatronomia{
+	background-repeat: no-repeat;
+	background-color: black;
+	width: 1000px;
+	background-position:left;
+}
+.row{
+	clear: both;
+}
+.h1-header{	
+	text-align: center;
+	color: #ffffff;
+	text-align: center;
+	padding-top: 70px;
+	font-family: 'Playfair Display', serif;
+}
+.text-all{
+	color: #040413;
+	padding: 0;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	width: 85%;
+}	
+@media (min-width: 992px)
+.container {
+    max-width: 960px
+
+}
+@media (min-width: 576px)
+.col-sm-4{
+	flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+
+.container-row{
+	display: block;
+
+}
+.img-thumbnail{
+	position: relative;
+
+}
+.footer-comida{
+	background-color: #121619;
+	height: 100px;
+
+
+}
+
+
+
