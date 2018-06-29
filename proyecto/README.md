@@ -113,7 +113,7 @@ Fecha de entrega evaluación: 04 de Julio 2018.
 
 8- que tenga espacio para los micro empresarios gastronomicos y emprendedores
 
-9- pagina landing Page.
+9- pagina display block
 
 10- hacer enfasis en los menus.
 
@@ -124,3 +124,11 @@ Fecha de entrega evaluación: 04 de Julio 2018.
 13- sacar fotos a sus locales
 
 14- preguntar por sus redes sociales
+
+15- fijarse en las grillas con mucho cuidado
+
+16- buscar en paginas colores para html
+
+17- buscar estilos de letras en google fonts
+
+18- buscar los estilos de boostrap
