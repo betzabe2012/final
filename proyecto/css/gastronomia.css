@@ -1,6 +1,9 @@
 body{
 
 	font-family: 'Lobster', cursive;
+}
+body{
+	display:block;
 
 }
 .container-uno{	
