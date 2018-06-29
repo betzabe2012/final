@@ -3,6 +3,10 @@ body{
 	font-family: 'Lobster', cursive;{
 
 }
+.body{
+	display: block;
+	
+}
 .navbar-nav{
 	position: left;
 	background-color:#3399ff;
