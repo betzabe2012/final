@@ -4,6 +4,7 @@ https://github.com/betzabe2012/final_1.git
 README.md
 
 #requisitos
+
 1. Trabajar de forma individual.
 
 2. Seleccionar un tema (ver los temas más abajo).
@@ -151,6 +152,11 @@ que muestre lugares que la gente reconozca
 lugares típicos de la comuna
 
 que muestre reseña y nos inste a querer ingresar a las historias.
+
+que sea muy facíl acceder al sitio
+
+
+
 
 
 #imagenes
